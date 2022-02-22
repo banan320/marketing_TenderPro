@@ -174,8 +174,8 @@ body {
 }
 // main ======================
 main {
-  background: url(./img/baground/1bg1920.jpeg) 0 0 / contain no-repeat;
-  -ms-background: url(./img/baground/1bg1920.jpeg) 0 0 / contain no-repeat;
+  background: url(/img/baground/1bg1920.jpeg) 0 0 / contain no-repeat;
+  -ms-background: url(/img/baground/1bg1920.jpeg) 0 0 / contain no-repeat;
   padding: 0 0 192px 0;
   overflow: hidden;
   margin-top: 80px;
@@ -209,7 +209,7 @@ main {
 }
 
 .main__menu li:nth-child(1)::after {
-  content: url(./img/icons/arrow.svg);
+  content: url(/img/icons/arrow.svg);
   padding: 0 12px 0 0;
   opacity: 1;
 }
@@ -325,7 +325,7 @@ main {
   max-width: 100%;
   flex: 1 1 50%;
   li::before {
-    content: url(./img/icons/check.svg);
+    content: url(/img/icons/check.svg);
     display: inline-block;
     position: absolute;
     left: 0px;
@@ -692,8 +692,8 @@ input[type="checkbox"]:checked + label:after {
 @media (max-width: 1440px) {
   // main =======================
   main {
-    background: url(./img/baground/2bg1440.jpeg) 0 0 / contain no-repeat;
-    -ms-background: url(./img/baground/2bg1440.jpeg) 0 0 / contain no-repeat;
+    background: url(/img/baground/2bg1440.jpeg) 0 0 / contain no-repeat;
+    -ms-background: url(/img/baground/2bg1440.jpeg) 0 0 / contain no-repeat;
     padding: 0 0 165px 0;
   }
   .main__title {
@@ -851,8 +851,8 @@ input[type="checkbox"]:checked + label:after {
   // main =====================
 
   main {
-    background: url(./img/baground/3bg768.jpeg) 0 0 / contain no-repeat;
-    -ms-background: url(./img/baground/3bg768.jpeg) 0 0 / contain no-repeat;
+    background: url(/img/baground/3bg768.jpeg) 0 0 / contain no-repeat;
+    -ms-background: url(/img/baground/3bg768.jpeg) 0 0 / contain no-repeat;
     padding: 0 0 269px 0;
   }
   .main__title {
@@ -1028,8 +1028,8 @@ input[type="checkbox"]:checked + label:after {
   // main ===============
   main {
     margin-top: 51px;
-    background: url(./img/baground/4bg320.jpeg) 0 0 / cover no-repeat;
-    -ms-background: url(./img/baground/4bg320.jpeg) 0 0 / cover no-repeat;
+    background: url(/img/baground/4bg320.jpeg) 0 0 / cover no-repeat;
+    -ms-background: url(/img/baground/4bg320.jpeg) 0 0 / cover no-repeat;
     height: 600px;
   }
   .main__menu {
@@ -1258,8 +1258,8 @@ input[type="checkbox"]:checked + label:after {
   // // main ===============
   main {
     margin-top: 51px;
-    background: url(./img/baground/4bg320.jpeg) 0 0 / contain no-repeat;
-    -ms-background: url(./img/baground/4bg320.jpeg) 0 0 / contain no-repeat;
+    background: url(/img/baground/4bg320.jpeg) 0 0 / contain no-repeat;
+    -ms-background: url(/img/baground/4bg320.jpeg) 0 0 / contain no-repeat;
     padding: 0;
     height: 568px;
   }
