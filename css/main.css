@@ -269,7 +269,7 @@ main {
 }
 
 .main__menu li:nth-child(1)::after {
-  content: url(./icons/arrow.svg);
+  content: url(../img/icons/arrow.svg);
   padding: 0 12px 0 0;
   opacity: 1;
 }
