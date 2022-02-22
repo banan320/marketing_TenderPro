@@ -230,8 +230,8 @@ body {
 }
 
 main {
-  background: url(../img/baground/1bg1920.jpeg) 0 0/contain no-repeat;
-  -ms-background: url(../img/baground/1bg1920.jpeg) 0 0/contain no-repeat;
+  background: url(img/baground/1bg1920.jpeg) 0 0/contain no-repeat;
+  -ms-background: url(img/baground/1bg1920.jpeg) 0 0/contain no-repeat;
   padding: 0 0 192px 0;
   overflow: hidden;
   margin-top: 80px;
